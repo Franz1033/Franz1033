@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**Franz1033/Franz1033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Digital Designer & E-commerce Entrepreneur** with a passion for building clean, premium web experiences and compelling product brands. Currently, I bridge the gap between creative visual design and functional web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+I love building fast, scalable, and responsive web applications.
+
+*   **Languages:** JavaScript (ES6+), TypeScript
+*   **Frameworks:** Next.js, React
+*   **Styling:** Tailwind CSS, Framer Motion
+*   **Tools:** Git, GitHub, VS Code, Figma (for design & branding)
+
+### 🚀 Projects & Focus
+*   **[pepetradingcards.com](https://pepetradingcards.com):** A specialized marketplace for digital assets and trading cards.
+*   **E-commerce Branding:** Creating high-end visual identities for brands like *Cyber Pepe*, *Royal Farm*, and *Anlee’s Spanish Sardines*.
+*   **Quiet List:** A curated directory for local urban experiences and services.
+
+### 📈 Currently Exploring
+*   **Advanced AI Integration:** Leveraging autonomous agents and ambient intelligence in the development workflow.
+*   **Automated Design Systems:** Refining 3D product mockups and high-fidelity assets for e-commerce.
+
+---
+
+### 📬 Let's Connect
+*   **Twitter/X:** [@YourHandle]
+*   **Portfolio:** [YourWebsiteLink.com]
+*   **Email:** [YourEmail@example.com]
+
+*Always building, always designing.*
