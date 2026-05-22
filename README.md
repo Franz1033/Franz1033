@@ -2,8 +2,6 @@
 
 I am a **Software Engineer** and **Digital Designer** dedicated to building premium, high-performance web experiences. I bridge the gap between aesthetic product branding and robust technical architecture, crafting applications that are as functional as they are beautiful.
 
----
-
 ### 🛠 Tech Stack
 I build robust, secure, and high-performance applications from the database layer to the pixel-perfect frontend.
 
@@ -14,8 +12,6 @@ I build robust, secure, and high-performance applications from the database laye
 * **Authentication & Services:** Better Auth, Resend, SMS API Integration
 * **Styling & Animation:** Tailwind CSS, Shadcn/ui, GSAP, Framer Motion
 * **Tools:** Git, GitHub, VS Code, Figma, Docker
-
----
 
 ### 🚀 Featured Projects & Expertise
 * **[LangChain RAG Agent](https://github.com/Franz1033/langchain-rag-agent):** A custom RAG implementation, showcasing deep integration of LLMs with structured data pipelines.
