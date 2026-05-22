@@ -1,9 +1,9 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Franz 👋
 
-I am a **Software Engineer** and **Digital Designer** dedicated to building premium, high-performance web experiences. I bridge the gap between aesthetic product branding and robust technical architecture, crafting applications that are as functional as they are beautiful.
+I am a **Full-Stack Software Engineer** focused on building high-performance, scalable web systems. I architect and implement end-to-end solutions, integrating robust backend logic, automated infrastructure, and data-driven interfaces to deliver high-availability applications.
 
 ### 🛠 Tech Stack
-I build robust, secure, and high-performance applications from the database layer to the pixel-perfect frontend.
+I build full-stack applications that prioritize performance and maintainability. My workflow covers the entire stack, from architecting database schemas and backend logic to refining the frontend interface.
 
 * **Languages:** Python, TypeScript, JavaScript (ES6+)
 * **AI & Deep Learning:** PyTorch, LangChain, RAG Pipelines, Scikit-learn
@@ -17,16 +17,11 @@ I build robust, secure, and high-performance applications from the database laye
 * **[LangChain RAG Agent](https://github.com/Franz1033/langchain-rag-agent):** A custom RAG implementation, showcasing deep integration of LLMs with structured data pipelines.
 * **Rental Marketplace App:** A full-stack solution featuring real-time data handling, automated SMS notification services for booking updates, and a polished, user-centric interface.
 * **Full-Stack AI Applications:** Architecting intelligent systems using Django/Python for backend logic, Prisma/Supabase for database integrity, and Next.js for a premium user interface.
-* **Digital Commerce Ecosystems:** Designing high-end brands (e.g., *Cyber Pepe*, *Anlee’s Spanish Sardines*) paired with custom, performance-oriented web storefronts.
-
----
 
 ### 📈 Current Focus
 * **Production AI Pipelines:** Bridging the gap between PyTorch research and real-world deployment via server-side APIs.
 * **Scalable Architecture:** Mastering the full lifecycle of high-traffic applications, from database modeling with PostgreSQL/Prisma to intelligent front-end interactivity.
 * **Autonomous Systems:** Developing headless agents to streamline and automate development and content delivery workflows.
-
----
 
 ### 📬 Let's Connect
 * **Twitter/X:** [@YourHandle]
