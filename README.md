@@ -1,6 +1,6 @@
 # Hello, I'm Franz 👋
 
-I am a **Full-Stack Software Developer and AI Engineer** focused on building high-performance, scalable web systems and intelligent applications. I architect and implement end-to-end solutions, integrating robust backend logic, automated infrastructure, and data-driven interfaces to deliver high-availability applications.
+I am a **Full-Stack Software Developer and AI Engineer** focused on building high-performance, scalable web systems and intelligent applications. I architect and implement end-to-end solutions, integrating robust backend logic, automated infrastructure, and data-driven interfaces to deliver high-quality applications.
 
 ### 🛠 Tech Stack
 I build full-stack applications that prioritize performance and maintainability. My workflow covers the entire stack, from architecting database schemas and backend logic to refining the frontend interface.
