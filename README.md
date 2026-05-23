@@ -11,7 +11,7 @@ I build full-stack applications that prioritize performance and maintainability.
 * **Database & ORM:** Supabase, PostgreSQL, MySQL, Prisma
 * **Authentication & Services:** Better Auth, Resend, SMS API Integration
 * **Styling & Animation:** Tailwind CSS, Shadcn/ui, GSAP, Framer Motion
-* **DevOps & Infrastructure:** Docker, Vercel, Railway, AWS
+* **DevOps & Infrastructure:** Docker, Vercel, Railway, Resend, AWS
 * **Tools:** Git, GitHub, VS Code, Figma, Docker
 
 ### 🚀 Featured Projects & Expertise
