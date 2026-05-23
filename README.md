@@ -22,8 +22,8 @@ I build full-stack applications that prioritize performance and maintainability.
 * **Full-Stack Infrastructure & AI:** Architecting intelligent systems by integrating **AWS** and **Docker** for scalable infrastructure, and leveraging **Resend** for production-grade notification services.
 
 ### 📈 Current Focus
-* **Production AI Pipelines:** Bridging the gap between PyTorch research and real-world deployment via server-side APIs.
-* **Scalable Architecture:** Mastering the full lifecycle of high-traffic applications, from database modeling with PostgreSQL/Prisma to intelligent front-end interactivity.
-* **Autonomous Systems:** Developing headless agents to streamline and automate development and content delivery workflows.
+* **Production AI Engineering**: Building production-ready AI systems through model serving, inference pipelines, APIs, and scalable deployment infrastructure.
+* **LLMs, RAG & Autonomous Agents**: Developing intelligent applications powered by large language models, retrieval systems, and agentic workflows.
+* **Scalable AI Systems**: Strengthening expertise in backend architecture, data systems, and deployment patterns for reliable, high-performance AI products.
   
 *Always building. Always designing. Constantly evolving.*
