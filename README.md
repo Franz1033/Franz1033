@@ -17,8 +17,8 @@ I build full-stack applications that prioritize performance and maintainability.
 ### 🚀 Featured Projects & Expertise
 * **[LangChain RAG Agent](https://github.com/Franz1033/langchain-rag-agent):** A custom RAG implementation utilizing **Ollama** for local inference, showcasing deep integration of LLMs with structured data pipelines.
 * **[RF Rental App](https://rf-rental-app.vercel.app/):** A full-stack rental management system featuring real-time data handling, automated SMS notification services, and deployment on **Vercel**.
-* **[Quiet List](https://myquietlist-app.vercel.app/):** A directory platform for local services in Makati, engineered for high performance with efficient data indexing and modular component architecture.
-* **[pepetradingcards.com](https://www.pepetradingcards.com/):** A high-traffic marketplace for digital assets, focusing on complex state management for real-time asset tracking and robust backend data integration.
+* **[Quiet List](https://myquietlist-app.vercel.app/):** A modern directory platform built for discovering and organizing local services, engineered with efficient indexing, modular architecture, and performance-focused design for fast and scalable search experiences
+* **[pepetradingcards.com](https://www.pepetradingcards.com/):** Engineered a high-performance trading card marketplace featuring secure trade workflows, real-time transaction tracking, and scalable backend architecture for collector-focused commerce.
 * **Full-Stack Infrastructure & AI:** Architecting intelligent systems by integrating **AWS** and **Docker** for scalable infrastructure, and leveraging **Resend** for production-grade notification services.
 
 ### 📈 Current Focus
