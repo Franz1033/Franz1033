@@ -1,22 +1,25 @@
 # Hello, I'm Franz 👋
 
-I am a **Full-Stack Software Engineer** focused on building high-performance, scalable web systems. I architect and implement end-to-end solutions, integrating robust backend logic, automated infrastructure, and data-driven interfaces to deliver high-availability applications.
+I am a **Full-Stack Software Developer and AI Engineer** focused on building high-performance, scalable web systems and intelligent applications. I architect and implement end-to-end solutions, integrating robust backend logic, automated infrastructure, and data-driven interfaces to deliver high-availability applications.
 
 ### 🛠 Tech Stack
 I build full-stack applications that prioritize performance and maintainability. My workflow covers the entire stack, from architecting database schemas and backend logic to refining the frontend interface.
 
 * **Languages:** Python, TypeScript, JavaScript (ES6+)
-* **AI & Deep Learning:** PyTorch, LangChain, RAG Pipelines, Scikit-learn
+* **AI & Deep Learning:** PyTorch, LangChain, RAG Pipelines, Scikit-learn, Local Model Integration (Ollama, vLLM)
 * **Web Frameworks:** Next.js, React, Django
 * **Database & ORM:** Supabase, PostgreSQL, MySQL, Prisma
 * **Authentication & Services:** Better Auth, Resend, SMS API Integration
 * **Styling & Animation:** Tailwind CSS, Shadcn/ui, GSAP, Framer Motion
+* **DevOps & Infrastructure:** Docker, Vercel, Railway, AWS
 * **Tools:** Git, GitHub, VS Code, Figma, Docker
 
 ### 🚀 Featured Projects & Expertise
-* **[LangChain RAG Agent](https://github.com/Franz1033/langchain-rag-agent):** A custom RAG implementation, showcasing deep integration of LLMs with structured data pipelines.
-* **Rental Marketplace App:** A full-stack solution featuring real-time data handling, automated SMS notification services for booking updates, and a polished, user-centric interface.
-* **Full-Stack AI Applications:** Architecting intelligent systems using Django/Python for backend logic, Prisma/Supabase for database integrity, and Next.js for a premium user interface.
+* **[LangChain RAG Agent](https://github.com/Franz1033/langchain-rag-agent):** A custom RAG implementation utilizing **Ollama** for local inference[cite: 1], showcasing deep integration of LLMs with structured data pipelines[cite: 1].
+* **[RF Rental App](https://rf-rental-app.vercel.app/):** A full-stack rental management system featuring real-time data handling, automated SMS notification services, and deployment on **Vercel**[cite: 1].
+* **[My Quiet List](https://myquietlist-app.vercel.app/):** A directory platform for local services in Makati, engineered for high performance with efficient data indexing and modular component architecture[cite: 1].
+* **[pepetradingcards.com](https://www.pepetradingcards.com/):** A high-traffic marketplace for digital assets, focusing on complex state management for real-time asset tracking and robust backend data integration[cite: 1].
+* **Full-Stack Infrastructure & AI:** Architecting intelligent systems by integrating **AWS** and **Docker** for scalable infrastructure[cite: 1], and leveraging **Resend** for production-grade notification services[cite: 1].
 
 ### 📈 Current Focus
 * **Production AI Pipelines:** Bridging the gap between PyTorch research and real-world deployment via server-side APIs.
